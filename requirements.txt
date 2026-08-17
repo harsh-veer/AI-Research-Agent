@@ -7,4 +7,5 @@ tavily-python
 python-dotenv
 langchainhub
 streamlit
-
+langchain-google-genai
+langchain-tavily
